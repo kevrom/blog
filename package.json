@@ -1,0 +1,39 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevrom/blog"
+  },
+  "author": "Kevin Romano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevrom/blog/issues"
+  },
+  "homepage": "https://github.com/kevrom/blog",
+  "dependencies": {
+    "font-awesome": "^4.2.0",
+    "jquery": "^2.1.3",
+    "riot": "^2.0.1"
+  },
+  "devDependencies": {
+    "browserify": "^8.1.1",
+    "del": "^1.1.1",
+    "gulp": "^3.8.10",
+    "gulp-imagemin": "^2.1.0",
+    "gulp-jshint": "^1.9.0",
+    "gulp-minify-css": "^0.4.2",
+    "gulp-ruby-sass": "^0.7.1",
+    "gulp-sourcemaps": "^1.3.0",
+    "gulp-uglify": "^1.1.0",
+    "jshint-stylish": "^1.0.0",
+    "merge-stream": "^0.1.7",
+    "run-sequence": "^1.0.2",
+    "vinyl-transform": "^1.0.0"
+  }
+}
